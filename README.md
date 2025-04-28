@@ -27,3 +27,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="Cyber Security" />
 </p>
+<p align="center">
+  <strong>Masih belajar hehe...😁🗿</strong>
+</p>
