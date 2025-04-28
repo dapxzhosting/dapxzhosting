@@ -28,5 +28,5 @@
   <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="Cyber Security" />
 </p>
 <p align="center">
-  <strong>Masih belajar hehe...😁🗿</strong>
+  <strong>Masih dikit skillsnya hehe...😁🗿</strong>
 </p>
