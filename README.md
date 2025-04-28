@@ -1,4 +1,8 @@
 <p align="center">
+  <strong>Find me on</strong>
+</p>
+
+<p align="center">
   <a href="https://dafaalfiansya.web.id">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
