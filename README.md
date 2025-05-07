@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dafaalfiansya.web.id">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
-  </a>
+
   <a href="https://instagram.com/dapboyss25">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -36,3 +34,15 @@
 <p align="center">
   Masih dikit skillsnya hehe...😁🗿
 </p>
+
+<p align="center">
+  My website👇
+</p>
+
+<p align="center">
+  <a href="https://dafaalfiansya.web.id">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
+</p>
+<br />
+  
