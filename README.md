@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <a href="https://instagram.com/dapboyss25">
+  <a href="https://instagram.com/dafa_alf1">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.tiktok.com/@dp_spele">
