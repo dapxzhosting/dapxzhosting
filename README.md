@@ -48,9 +48,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dapxzhostingh&show_icons=true&theme=dark&bg_color=050507&title_color=EDEBE6&text_color=EDEBE6&icon_color=EDEBE6&border_color=222222&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dapxzhosting&show_icons=true&theme=dark&bg_color=050507&title_color=EDEBE6&text_color=EDEBE6&icon_color=EDEBE6&border_color=222222&hide_border=false" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafaalfiansyah&layout=compact&theme=dark&bg_color=050507&title_color=EDEBE6&text_color=EDEBE6&border_color=222222&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapxzhosting&layout=compact&theme=dark&bg_color=050507&title_color=EDEBE6&text_color=EDEBE6&border_color=222222&hide_border=false" />
 </div>
 
 ---
@@ -67,5 +67,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dafaalfiansyah&color=050507&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dapxzhosting&color=050507&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
