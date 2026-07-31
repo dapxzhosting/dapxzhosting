@@ -47,12 +47,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dapxzhosting&show_icons=true&theme=dark&bg_color=050507&title_color=EDEBE6&text_color=EDEBE6&icon_color=EDEBE6&border_color=222222&hide_border=false" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapxzhosting&layout=compact&theme=dark&bg_color=050507&title_color=EDEBE6&text_color=EDEBE6&border_color=222222&hide_border=false" />
-</div>
-
+<p align="center">
+  <img height="160" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=dapxzhosting&show_icons=true&theme=dark&bg_color=050507&title_color=EDEBE6&text_color=EDEBE6&icon_color=EDEBE6&border_color=222222&hide_border=false" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=dapxzhosting&layout=compact&theme=dark&bg_color=050507&title_color=EDEBE6&text_color=EDEBE6&border_color=222222&hide_border=false" alt="Top Languages" />
+</p>
 ---
 
 ## 📬 Connect with Me
