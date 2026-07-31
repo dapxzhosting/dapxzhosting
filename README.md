@@ -48,7 +48,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=dapxzhosting&theme=dark&background=050507&fire=EDEBE6&ring=EDEBE6&currStreakNum=EDEBE6&sideNums=EDEBE6&currStreakLabel=EDEBE6&sideLabels=EDEBE6&dates=EDEBE6" alt="GitHub Streak Stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dapxzhosting&theme=dracula" alt="GitHub Details" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dapxzhosting&theme=dracula" alt="Most Commit Language" />
 </p>
 ---
 
