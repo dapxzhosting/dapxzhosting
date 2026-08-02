@@ -48,8 +48,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dapxzhosting&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=dapxzhosting&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-metrics.vercel.app/api?username=dapxzhosting&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-metrics.vercel.app/api/top-langs?username=dapxzhosting&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 ---
 
