@@ -48,8 +48,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dapxzhosting&theme=dracula" alt="GitHub Details" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dapxzhosting&theme=dracula" alt="Most Commit Language" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dapxzhosting&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapxzhosting&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 ---
 
