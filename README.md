@@ -48,8 +48,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-metrics.vercel.app/api?username=dapxzhosting&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-metrics.vercel.app/api/top-langs?username=dapxzhosting&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="github-metrics.svg" alt="GitHub Stats Saya" width="100%" />
 </p>
 ---
 
