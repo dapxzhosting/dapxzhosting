@@ -48,7 +48,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/github-metrics.svg" alt="GitHub Stats Saya" width="60%" />
+  <img src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/github-metrics.svg" alt="GitHub Stats Saya" width="70%" />
 </p>
 ---
 
