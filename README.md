@@ -8,7 +8,7 @@
 	</a>
 	&nbsp;
 	<a href="mailto:dafaalfiansyahdev@outlook.com">
-		<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+		<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 	</a>
 	&nbsp;
 	<a href="https://www.instagram.com/dafa_alf1" target="_blank">
