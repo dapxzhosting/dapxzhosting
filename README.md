@@ -3,21 +3,21 @@
 # Hi there, I'm Dafa Alfiansyah 👋
 
 <p>
-  <a href="https://dafaalfiansyah.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-050507?style=for-the-badge&logo=vercel&logoColor=EDEBE6" alt="Website"/>
-  </a>
-  &nbsp;
-  <a href="mailto:dafaalfiansyahdev@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/dafa_alf1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://www.tiktok.com/@dp_spele" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
+	<a href="https://dafaalfiansyah.my.id" target="_blank">
+		<img src="https://img.shields.io/badge/Portfolio-050507?style=for-the-badge&logo=vercel&logoColor=EDEBE6" alt="Portfolio" />
+	</a>
+	&nbsp;
+	<a href="mailto:dafaalfiansyahdev@outlook.com">
+		<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+	</a>
+	&nbsp;
+	<a href="https://www.instagram.com/dafa_alf1" target="_blank">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+	</a>
+	&nbsp;
+	<a href="https://www.tiktok.com/@dp_spele" target="_blank">
+		<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+	</a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=EDEBE6&background=05050700&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Android+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -48,8 +48,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/github-metrics.svg" alt="GitHub Stats Saya" width="70%" />
+	<img src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/github-metrics.svg" alt="GitHub Stats" width="70%" />
 </p>
+
 ---
 
 ## 📬 Connect with Me
@@ -64,5 +65,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dapxzhosting&color=050507&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+	<img src="https://komarev.com/ghpvc/?username=dapxzhosting&color=050507&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
