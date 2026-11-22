@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/header.svg" alt="Dafa Alfiansyah - Full-Stack & Android Developer" width="100%" />
+<picture>
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/header-light.svg">
+	<img src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/header.svg" alt="Dafa Alfiansyah - Full-Stack & Android Developer" width="100%" />
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=EDEBE6&background=05050700&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Dafa+(Dap)+%F0%9F%91%8B;Full-Stack+Developer;Android+Developer+%7C+Kotlin;React+%7C+Next.js+%7C+Laravel+%7C+Node.js;Open+Source+Enthusiast" alt="Typing SVG" />
+<picture>
+	<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=050507&background=FFFFFF00&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Dafa+(Dap)+%F0%9F%91%8B;Full-Stack+Developer;Android+Developer+%7C+Kotlin;React+%7C+Next.js+%7C+Laravel+%7C+Node.js;Open+Source+Enthusiast">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=EDEBE6&background=05050700&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Dafa+(Dap)+%F0%9F%91%8B;Full-Stack+Developer;Android+Developer+%7C+Kotlin;React+%7C+Next.js+%7C+Laravel+%7C+Node.js;Open+Source+Enthusiast" alt="Typing SVG" />
+</picture>
 
 <br/>
 
@@ -50,6 +56,16 @@ object Dafa {
 
 ---
 
+## 🔭 Currently Working On
+
+| Project | What I'm doing |
+|---------|----------------|
+| 🛡️ **FamilyGuard** | Android parental control app: security hardening and open-source preparation |
+| 🤖 **Lanfa** | AI assistant for Android and web: bilingual support, chat features, theming |
+| 💰 **DafMoney** | Personal finance app: native look and feel, wallets, and new features |
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -61,7 +77,7 @@ object Dafa {
 ### 🎯 Frontend
 
 <p>
-	<img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css&perline=9" alt="Frontend" />
+	<img src="https://skillicons.dev/icons?i=react,nextjs,vite&perline=9" alt="Frontend" />
 	<br/>
 	<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
 	<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
@@ -70,7 +86,7 @@ object Dafa {
 ### 📱 Mobile
 
 <p>
-	<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,firebase&perline=9" alt="Mobile" />
+	<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter&perline=9" alt="Mobile" />
 </p>
 
 ### 🔧 Backend & Database
@@ -151,30 +167,34 @@ object Dafa {
 	</tr>
 </table>
 
-### 📌 Pinned Repository
-
-<p align="center">
-	<a href="https://github.com/dapxzhosting/DafMoney">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dapxzhosting&repo=DafMoney&theme=dark&bg_color=050507&title_color=EDEBE6&text_color=9b9aa3&icon_color=EDEBE6&border_color=2a2a33" alt="DafMoney" />
-	</a>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/github-metrics.svg" alt="GitHub Metrics" width="70%" />
+	<img src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/github-metrics.svg" alt="GitHub Metrics" width="80%" />
 </p>
 
-<p align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=dapxzhosting&show_icons=true&theme=dark&bg_color=050507&title_color=EDEBE6&text_color=9b9aa3&icon_color=EDEBE6&border_color=2a2a33" alt="GitHub Stats" />
-	&nbsp;
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapxzhosting&layout=compact&theme=dark&bg_color=050507&title_color=EDEBE6&text_color=9b9aa3&border_color=2a2a33" alt="Top Languages" />
-</p>
+## 🐍 Contribution Snake
 
 <p align="center">
-	<img src="https://streak-stats.demolab.com?user=dapxzhosting&theme=dark&background=050507&ring=EDEBE6&fire=EDEBE6&currStreakLabel=EDEBE6&sideLabels=9b9aa3&currStreakNum=EDEBE6&sideNums=EDEBE6&dates=9b9aa3&stroke=2a2a33&border=2a2a33" alt="GitHub Streak" />
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/output/github-snake-dark.svg">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/output/github-snake.svg">
+		<img alt="Contribution snake" src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/output/github-snake-dark.svg" width="100%">
+	</picture>
+</p>
+
+---
+
+## 🤝 Open to Collaborate
+
+I'm open to freelance work, open-source collaboration, and interesting project ideas, especially around **Android (Kotlin)**, **React / Next.js**, and **Laravel / Node.js**. Feel free to reach out!
+
+<p>
+	<a href="mailto:dafaalfiansyahdev@outlook.com?subject=Let%27s%20work%20together">
+		<img src="https://img.shields.io/badge/Let's_Talk-050507?style=for-the-badge&logo=gmail&logoColor=EDEBE6" alt="Let's talk" />
+	</a>
 </p>
 
 ---
@@ -192,6 +212,9 @@ object Dafa {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/footer.svg" alt="Code it. Ship it. Polish it." width="100%" />
+<picture>
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/footer-light.svg">
+	<img src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/footer.svg" alt="Code it. Ship it. Polish it." width="100%" />
+</picture>
 
 </div>
