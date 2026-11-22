@@ -205,12 +205,47 @@ I'm open to freelance work, open-source collaboration, and interesting project i
 
 ## 📬 Connect with Me
 
-| Platform | Link |
-|----------|------|
-| 🌐 Website | [dafaalfiansyah.my.id](https://dafaalfiansyah.my.id) |
-| 📧 Email | [dafaalfiansyahdev@outlook.com](mailto:dafaalfiansyahdev@outlook.com) |
-| 📸 Instagram | [@dafa_alf1](https://www.instagram.com/dafa_alf1) |
-| 🎵 TikTok | [@dp_spele](https://www.tiktok.com/@dp_spele) |
+<div align="center">
+
+<i>Got an idea, a question, or just want to say hi? My inbox is always open. 👋</i>
+
+<br/><br/>
+
+<table>
+	<tr>
+		<td align="center" width="50%">
+			<a href="https://dafaalfiansyah.my.id" target="_blank">
+				<img src="https://img.shields.io/badge/Website-dafaalfiansyah.my.id-050507?style=for-the-badge&logo=vercel&logoColor=EDEBE6" alt="Website" />
+			</a>
+		</td>
+		<td align="center" width="50%">
+			<a href="mailto:dafaalfiansyahdev@outlook.com">
+				<img src="https://img.shields.io/badge/Email-dafaalfiansyahdev%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" width="50%">
+			<a href="https://www.instagram.com/dafa_alf1" target="_blank">
+				<img src="https://img.shields.io/badge/Instagram-%40dafa__alf1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+			</a>
+		</td>
+		<td align="center" width="50%">
+			<a href="https://www.tiktok.com/@dp_spele" target="_blank">
+				<img src="https://img.shields.io/badge/TikTok-%40dp__spele-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" colspan="2">
+			<a href="https://github.com/dapxzhosting" target="_blank">
+				<img src="https://img.shields.io/badge/GitHub-dapxzhosting-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+			</a>
+		</td>
+	</tr>
+</table>
+
+</div>
 
 ---
 
