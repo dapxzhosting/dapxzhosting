@@ -1,6 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Dafa Alfiansyah 👋
+<img src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/header.svg" alt="Dafa Alfiansyah - Full-Stack & Android Developer" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=EDEBE6&background=05050700&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Dafa+(Dap)+%F0%9F%91%8B;Full-Stack+Developer;Android+Developer+%7C+Kotlin;React+%7C+Next.js+%7C+Laravel+%7C+Node.js;Open+Source+Enthusiast" alt="Typing SVG" />
+
+<br/>
 
 <p>
 	<a href="https://dafaalfiansyah.my.id" target="_blank">
@@ -20,35 +24,157 @@
 	</a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=EDEBE6&background=05050700&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Android+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=dapxzhosting&color=050507&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+```kotlin
+object Dafa {
+    val name = "Dafa Alfiansyah"
+    val alias = "Dap"
+    val roles = listOf("Full-Stack Developer", "Android Developer")
+    val focus = listOf("Android (Kotlin)", "Web (React / Next.js)", "Backend (Node.js / Laravel)")
+    val currentlyBuilding = listOf("FamilyGuard", "Lanfa AI", "DafMoney")
+    val funFact = "I like polished UI, smooth animations, and shipping real projects 🚀"
+}
+```
+
+- 📱 Building native **Android** apps with Kotlin and Firebase
+- 🌐 Crafting **modern websites** with React, TypeScript, and Next.js
+- ⚙️ Developing **backends and tools** with Node.js, Express, Laravel, and PHP
+- 🎨 Obsessed with UI/UX details: scroll animations, light/dark themes, and interfaces that feel truly native
+
+---
+
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+<p>
+	<img src="https://skillicons.dev/icons?i=kotlin,java,dart,ts,js,python,php,html,css&perline=9" alt="Languages" />
+</p>
 
-**Frameworks & Runtime**
+### 🎯 Frontend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<p>
+	<img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css&perline=9" alt="Frontend" />
+	<br/>
+	<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+	<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+</p>
+
+### 📱 Mobile
+
+<p>
+	<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,firebase&perline=9" alt="Mobile" />
+</p>
+
+### 🔧 Backend & Database
+
+<p>
+	<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,mysql,firebase&perline=9" alt="Backend" />
+</p>
+
+### ☁️ Deployment & Tools
+
+<p>
+	<img src="https://skillicons.dev/icons?i=git,github,cloudflare,vercel,linux,vscode&perline=9" alt="Tools" />
+	<br/>
+	<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+	<img src="https://img.shields.io/badge/Pterodactyl-0E4688?style=for-the-badge&logoColor=white" alt="Pterodactyl" />
+	<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" alt="Groq" />
+	<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logoColor=white" alt="OpenRouter" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<h3>🛡️ FamilyGuard</h3>
+			<p>An Android <b>parental control</b> app powered by Firebase Realtime Database, device admin APIs, and hardened security rules.</p>
+			<img src="https://skillicons.dev/icons?i=kotlin,firebase,androidstudio" alt="FamilyGuard stack" />
+		</td>
+		<td width="50%" valign="top">
+			<h3>🤖 Lanfa</h3>
+			<p>An <b>AI assistant</b> for Android and web with bilingual (ID/EN) support, streaming chat, and custom themes.</p>
+			<img src="https://skillicons.dev/icons?i=kotlin,react,vite,firebase,cloudflare" alt="Lanfa stack" />
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<h3>💰 DafMoney</h3>
+			<p>A <b>personal finance</b> app with a native look and feel, multiple wallets, and a full set of transaction features.</p>
+			<a href="https://github.com/dapxzhosting/DafMoney">View repository</a>
+			<br/>
+			<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" alt="DafMoney stack" />
+		</td>
+		<td width="50%" valign="top">
+			<h3>⬇️ Tools Downloader</h3>
+			<p>A <b>media downloader</b> for TikTok, Instagram, and CapCut, built with Node.js + Express and deployed on Railway.</p>
+			<img src="https://skillicons.dev/icons?i=nodejs,express,js" alt="Downloader stack" />
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<h3>🍩 Donut Landing Page</h3>
+			<p>An interactive landing page with parallax scroll animations and a 3D model, built with Next.js and TypeScript.</p>
+			<img src="https://skillicons.dev/icons?i=nextjs,ts,react" alt="Donut stack" />
+		</td>
+		<td width="50%" valign="top">
+			<h3>💬 WhatsApp Bot</h3>
+			<p>A multi-purpose <b>WhatsApp bot</b> (Node.js) with prayer-time reminders, a music player, and many utility commands.</p>
+			<img src="https://skillicons.dev/icons?i=nodejs,js,linux" alt="Bot stack" />
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<h3>📚 School Library System</h3>
+			<p>A library information system built with <b>Laravel</b> and MySQL, deployed on Railway.</p>
+			<a href="https://github.com/dapxzhosting/perpustakaan-">View repository</a>
+			<br/>
+			<img src="https://skillicons.dev/icons?i=laravel,php,mysql" alt="Library stack" />
+		</td>
+		<td width="50%" valign="top">
+			<h3>🌐 Portfolio Website</h3>
+			<p>My personal portfolio with GSAP animations, a Spotify integration, and an interactive skills section.</p>
+			<a href="https://dafaalfiansyah.my.id">dafaalfiansyah.my.id</a>
+			<br/>
+			<img src="https://skillicons.dev/icons?i=react,ts" alt="Portfolio stack" />
+		</td>
+	</tr>
+</table>
+
+### 📌 Pinned Repository
+
+<p align="center">
+	<a href="https://github.com/dapxzhosting/DafMoney">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dapxzhosting&repo=DafMoney&theme=dark&bg_color=050507&title_color=EDEBE6&text_color=9b9aa3&icon_color=EDEBE6&border_color=2a2a33" alt="DafMoney" />
+	</a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/github-metrics.svg" alt="GitHub Stats" width="70%" />
+	<img src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/github-metrics.svg" alt="GitHub Metrics" width="70%" />
+</p>
+
+<p align="center">
+	<img height="170" src="https://github-readme-stats.vercel.app/api?username=dapxzhosting&show_icons=true&theme=dark&bg_color=050507&title_color=EDEBE6&text_color=9b9aa3&icon_color=EDEBE6&border_color=2a2a33" alt="GitHub Stats" />
+	&nbsp;
+	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapxzhosting&layout=compact&theme=dark&bg_color=050507&title_color=EDEBE6&text_color=9b9aa3&border_color=2a2a33" alt="Top Languages" />
+</p>
+
+<p align="center">
+	<img src="https://streak-stats.demolab.com?user=dapxzhosting&theme=dark&background=050507&ring=EDEBE6&fire=EDEBE6&currStreakLabel=EDEBE6&sideLabels=9b9aa3&currStreakNum=EDEBE6&sideNums=EDEBE6&dates=9b9aa3&stroke=2a2a33&border=2a2a33" alt="GitHub Streak" />
 </p>
 
 ---
@@ -65,5 +191,7 @@
 ---
 
 <div align="center">
-	<img src="https://komarev.com/ghpvc/?username=dapxzhosting&color=050507&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<img src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/footer.svg" alt="Code it. Ship it. Polish it." width="100%" />
+
 </div>
