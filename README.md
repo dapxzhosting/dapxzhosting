@@ -32,6 +32,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=dapxzhosting&color=050507&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/dapxzhosting/dapxzhosting/main/pixel-eyes.jpeg" alt="Pixel art banner" width="80%" />
+
 </div>
 
 ---
